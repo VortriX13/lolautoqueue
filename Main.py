@@ -1,4 +1,3 @@
-import sys
 import pyautogui
 import time
 import colorama
@@ -21,8 +20,8 @@ def welcome():
  | (_| (_) | | | | | | | | (_| | (_| |  __/ | |_) | (_) | |_ 
   \___\___/|_| |_| |_|_|  \__,_|\__,_|\___| |_.__/ \___/ \__|                                                                       
 ''')
-    print(Fore.LIGHTRED_EX + '- @author: not a comrade ')
-    print(Fore.LIGHTRED_EX + '- @version: 1.3 ')
+    print(Fore.LIGHTRED_EX + '- @author: vortrix13')
+    print(Fore.LIGHTRED_EX + '- @version: 1.3')
     print(Fore.LIGHTGREEN_EX + '''
           - Para garantir que o bot vai funcionar corretamente
           - reinicie o lol e não mude a janela de lugar!
